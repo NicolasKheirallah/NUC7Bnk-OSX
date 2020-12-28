@@ -7,7 +7,7 @@ A collection of all resources needed to run macOS Catalina or Big Sur on a Intel
 
 | Feature | Status | Notes |
 | ------------- | ------------- | ------------- |
-| **Intel iGPU** | ✅ Working | Fully supported. Both 2560x1440@144Hz over HDMI and 4k@60Hz|
+| **Intel iGPU** | ✅ Working | Fully supported. Both 2560x1440@144Hz over HDMI and 4k@60Hz| DRM will never work unless using a external GPU
 | **iMessages and App Store** | ✅ Working | Just follow the  [guide below](#%E2%84%B9%EF%B8%8F-changing-serial-number-board-serial-number-and-smuuid) |
 | **Speakers and Headphones** | ✅ Working |
 | **Built-in Microphone** | ✅ Working |
